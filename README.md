@@ -1,5 +1,5 @@
-<h1>Hi!, I'm Danica Lacandula!</h1>
-
+<h1>Hi!, I'm Danica B. Lacandula!</h1>
+A computer science student
 <h2>Education</h2>
 BS Computer Science
 Currently studying at New Era University
