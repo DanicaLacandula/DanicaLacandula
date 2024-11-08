@@ -9,5 +9,5 @@ Currently studying at New Era University
 Programming: Java, Python
 Databases: IBM DB2 Cloud
 <h1>Contact</h1>
-Facebook: https://www.facebook.com/danicalacandula/
+Facebook: <br><a href="https://www.facebook.com/danicalacandula/"> Danica Lacandula 101</a>
 Email: lacanduladanica@gmail.com
