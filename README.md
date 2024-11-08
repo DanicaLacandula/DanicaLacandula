@@ -4,7 +4,7 @@
 BS Computer Science
 Currently studying at New Era University
 <h2>Certifications</h2>
-<br>
+<br> 
 <h1>skill sets</h1>
 Programming: Java, Python
 Databases: IBM DB2 Cloud
