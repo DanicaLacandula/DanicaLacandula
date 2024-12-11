@@ -9,5 +9,4 @@ BS Computer Science<br>Currently studying at New Era University</br>
 <h1>skill sets</h1>
 Programming: Java, Python<br>Databases: SQL IBM DB2 Cloud</br>
 <h1>Contact</h1>
-Facebook:<br><a href="https://www.facebook.com/danicalacandula/"> Danica Lacandula </a>
-<br>Email: lacanduladanica@gmail.com</br>
+Facebook:<br><a href="https://www.facebook.com/danicalacandula/"> Danica Lacandula </a><br>Email: lacanduladanica@gmail.com</br>
